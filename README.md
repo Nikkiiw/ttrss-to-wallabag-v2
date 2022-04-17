@@ -1,8 +1,11 @@
 Wallabag v2: A TT-RSS to Wallabag v2 plugin(fix from @[cthu1hoo](https://github.com/cthu1hoo)
 
 FIX:
+
 Two fixes from @[cthu1hoo](https://github.com/cthu1hoo).
+
 Now the Save to Wallabag button should reappear and work again.
+
 Also fix prevents plugin from being user-loaded.
 
 
