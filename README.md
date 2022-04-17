@@ -1,4 +1,4 @@
-Wallabag v2: A TT-RSS to Wallabag v2 plugin(fix from @[cthu1hoo](https://github.com/cthu1hoo)
+Wallabag v2: A TT-RSS to Wallabag v2 plugin   (Fix from @[cthu1hoo](https://github.com/cthu1hoo))
 
 FIX:
 
