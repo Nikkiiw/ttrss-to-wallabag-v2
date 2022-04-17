@@ -10,6 +10,13 @@ Also fix prevents plugin from being user-loaded.
 
 
 
+
+
+
+
+
+
+
 =====================
 A [TT-RSS](https://tt-rss.org/) plugin for saving links to a [Wallabag v2](https://www.wallabag.org/) instance manually or automatically via content filters.
 
