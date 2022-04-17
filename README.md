@@ -1,9 +1,11 @@
-Wallabag v2: A TT-RSS to Wallabag v2 plugin(fix from @cthu1hoo)
+Wallabag v2: A TT-RSS to Wallabag v2 plugin(fix from @[cthu1hoo](https://github.com/cthu1hoo)
 
 FIX:
-Two fixes from @cthu1hoo. 
+Two fixes from @[cthu1hoo](https://github.com/cthu1hoo).
 Now the Save to Wallabag button should reappear and work again.
 Also fix prevents plugin from being user-loaded.
+
+
 
 =====================
 A [TT-RSS](https://tt-rss.org/) plugin for saving links to a [Wallabag v2](https://www.wallabag.org/) instance manually or automatically via content filters.
