@@ -38,3 +38,9 @@ Code for this project exists because of:
 
 ### Tips
 Dogecoin: DARhgg9q3HAWYZuN95DKnFonADrSWUimy3
+
+
+
+###FIX
+Two fixes from @cthu1hoo. Now the Save to Wallabag button should reappear and work again.
+Also fix prevents plugin from being user-loaded:
